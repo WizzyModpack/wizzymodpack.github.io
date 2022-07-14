@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages1
+### Wizzy Modpack - Documentation
 
-You can use the [editor on GitHub](https://github.com/WizzyModpack/wizzymodpack.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About
+Wizzy is a Minecraft modpack, available excludively on the ATLauncher.
+The ATLauncher can be downloaded from their website, here: [ATLauncher Download](https://atlauncher.com/downloads).
+Once the ATLauncher is installed, you can install the Wizzy modpack by going to the _Packs_ tab and searcing for _Wizzy_.
+Then, click _New Instance_, name the instance (optional), select the version of Wizzy to install (optional), then click _Install_.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+FURTHER DOCUMENTATION COMING
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Help
 
-```markdown
-Syntax highlighted code block
+##Versions
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WizzyModpack/wizzymodpack.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##Known Issues
