@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: template
 title: Changelog
 description: List of changes.
 ---
