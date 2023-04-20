@@ -1,3 +1,9 @@
+---
+title: Redme
+layout: template
+filename: README.md
+--- 
+
 ### Wizzy Modpack - Documentation
 
 ## About
