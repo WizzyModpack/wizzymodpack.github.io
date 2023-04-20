@@ -1,0 +1,3 @@
+## Wizzy Modpack - Changelog
+
+Changelog
