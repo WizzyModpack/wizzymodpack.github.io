@@ -1,8 +1,3 @@
----
-title: Home
-layout: template
-filename: index.md
---- 
 ### Wizzy Modpack - Documentation
 
 ## About
