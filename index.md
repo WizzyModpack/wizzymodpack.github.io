@@ -1,7 +1,5 @@
 ---
 layout: template
-title: Home
-description: Homepage.
 ---
 ### Wizzy Modpack - Documentation
 
