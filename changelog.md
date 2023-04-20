@@ -1,6 +1,8 @@
 ---
 layout: template
 ---
-## Wizzy Modpack - Changelog
+# Changelog
 
-Changelog1
+### Wizzy v1.2 Changelog:
+
+to be updated.
