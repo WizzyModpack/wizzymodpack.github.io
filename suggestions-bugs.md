@@ -3,13 +3,12 @@ layout: template
 ---
 # Suggestions & Bugs
 
-### To make a suggestion, such as a new mod or mode that should be added to Wizzy, complete the following form:
+### To make a suggestion, such as a new mod or mode that should be added to Wizzy, complete [this form](http://goo.gl/forms/vzbYqc2v20).
 
 We will not reply to any suggestions, however they will be taken into account for any future release of Wizzy.
 
 
-### To report an issue with Wizzy, including issues with the mod selector, you can use the following GitHub page:
-### Or, if you would prefer, you can submit a report through this Google form:
+### To report an issue with Wizzy, including issues with the mod selector or texture pack, you can use [this GitHub page](https://github.com/WizzyModpack/Wizzy/issues).
 
 Please note that submitting a bug report does not guarantee a reply.
 
