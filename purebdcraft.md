@@ -8,7 +8,8 @@ For those looking to use a texture pack with Wizzy, this PureBDcraft Patch is a 
 PureBDcraft is a well-known comic book style HD texture pack that has been around since 2011.   
 The huge number of patches made by the community means that most mods in Wizzy have textures that fit the PureBDcraft style.
 
-[BDcraft Forum Page](https://bdcraft.net/community/viewtopic.php?t=9079)
+[BDcraft Website](https://bdcraft.net/)
+[PureBDcraft for Wizzy Forum Page](https://bdcraft.net/community/viewtopic.php?t=9079)
 
 ### Download:
 
