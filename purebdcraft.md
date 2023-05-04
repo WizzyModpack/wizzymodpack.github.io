@@ -23,14 +23,14 @@ Download the main PureBDcraft Texture Pack [here](https://bdcraft.net/downloads/
 
 ### Installation:
 
-This patch only contains textures for the mods included in the Wizzy Modpack.
+This patch only contains textures for the mods included in the Wizzy Modpack.   
 The patch does not contain the main PureBDcraft texture pack, which needs to be downloaded separately here.
 
-Once downloaded, place the PureBDcraft texture pack and the Wizzy patch into your resourcepacks folder.
+Once downloaded, place the PureBDcraft texture pack and the Wizzy patch into your resourcepacks folder.   
 This folder is located in your ATLauncher instance for Wizzy, which can be found in the instances folder in your ATLauncher install location.
 
-Please note that higher-resolution textures require more computing power, and may perform poorly (or not at all) on some systems.
-If you don't know what resolution to choose, I recommend trying the 64x patch first.
+Please note that higher-resolution textures require more computing power, and may perform poorly (or not at all) on some systems.   
+If you don't know what resolution to choose, I recommend trying the 64x patch first.   
 If you apply a texture pack that causes your game to crash and are unable to access the Resource Packs menu to disable it, close your game and move the texture pack out of your resourcepacks folder, which will effectively disable it.
 
 
