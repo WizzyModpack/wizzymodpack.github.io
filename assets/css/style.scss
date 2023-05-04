@@ -11,8 +11,10 @@
     background-image: linear-gradient(120deg, red, turquoise)
 }
 
-@media screen and (min-width: 64em) .project-name {
-    font-size: 4.25rem;
+@media screen and (min-width: 64em){
+    .project-name{
+        font-size:4.25rem
+    }
 }
 
 body {
