@@ -40,7 +40,7 @@ If you apply a texture pack that causes your game to crash and are unable to acc
 24 Apr 2023 - Initial Release (Version 1)
 
 
-### [Credits & Notes (on PureBDcraft Forum)](https://bdcraft.net/community/viewtopic.php?t=9079)
+### [Credits & Notes (on the PureBDcraft Forum)](https://bdcraft.net/community/viewtopic.php?t=9079)
 
 
 
