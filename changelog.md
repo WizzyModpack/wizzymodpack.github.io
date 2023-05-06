@@ -3,6 +3,13 @@ layout: template
 ---
 # Changelog
 
+### Wizzy v1.2.1 Changelog:
+
+~Mods with installation warnings have been moved to a new section at the bottom of the mod selector.
+~Size of Sulfur and Niter deposits in Artifice have been halved.
+~Reduced the probability of HBM Nuclear Tech Mod structures and ores spawning.
+~Tropicraft has been removed from all modes (Magic Mode, Build Mode, Overload Mode and Creators' Selection). The mod is using IDs instead of names for some items, resulting in console spam, recipe issues and errors with NEI. A warning has been added for anyone selecting Tropicraft in the mod selector, and it is only kept for compatibility with worlds created using older versions of Wizzy. Generation in Overworld has also been disabled in config.
+
 ### Wizzy v1.2.0 Changelog:
 
 +Updated Minecraft Forge  
