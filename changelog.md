@@ -3,14 +3,21 @@ layout: template
 ---
 # Changelog
 
-### Wizzy v1.2.1 Changelog:
+### Wizzy v1.2.2 Changelog (10 May 2023):
+
+~ The Aether II is no longer included in any modes (Standard, Build Mode, Magic Mode, Overload Mode & Creators' Selection). This is due to issues with lighting updates that the mod causes. It will still be available in the mod selector.
+Please note that worlds with blocks/items from The Aether II in the Overworld may encounter issues when removing the mod. Please backup your world first, and then try to load the game without The Aether II to check that everything is okay. You must not be in the Aether dimension when loading the world. You will encounter a message about missing blocks/items when loading without The Aether II for the first time. If you encounter issues with your world, you can reinstall Wizzy with The Aether II selected from the bottom of the mod selector.
+We apologise for any inconvenience that this may cause.
+Also, +Updated HBM's Nuclear Tech Mod
+
+### Wizzy v1.2.1 Changelog (6 May 2023):
 
 ~Mods with installation warnings have been moved to a new section at the bottom of the mod selector.
 ~Size of Sulfur and Niter deposits in Artifice have been halved.
 ~Reduced the probability of HBM Nuclear Tech Mod structures and ores spawning.
 ~Tropicraft has been removed from all modes (Magic Mode, Build Mode, Overload Mode and Creators' Selection). The mod is using IDs instead of names for some items, resulting in console spam, recipe issues and errors with NEI. A warning has been added for anyone selecting Tropicraft in the mod selector, and it is only kept for compatibility with worlds created using older versions of Wizzy. Generation in Overworld has also been disabled in config.
 
-### Wizzy v1.2.0 Changelog:
+### Wizzy v1.2.0 Changelog (4 May 2023):
 
 +Updated Minecraft Forge  
 +Updated The Aether II  
