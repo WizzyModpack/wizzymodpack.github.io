@@ -18,7 +18,7 @@ Known Issues:
 -HBM's Nuclear Tech disables the normal crafting recipe for the Mekanism Digital Miner. This is being investigated.  
 -The game may crash when flying with the Mekanism Jetpack on a LAN world. This is being investigated.  
 -A Philosopher's Stone (ProjectE) recipe to smelt gravel into Cobblestone still exists and has not been able to be removed using CraftTweaker - this conflicts with the recipe to smelt Gravel into Concrete (Chisel).  
--Dynamic Surroundings is requried on both clients in a LAN world, even though it a client-side only mod. Need to verify the behaviour on a server, and possibly move Dynamic Surroundings out of the Client Mods section.  
+-Aura Cascade is causing console spam for analytics (de.npe.gameanalytics...) even when the function is disabled in config.  
 
 ### Wizzy v1.2.2 Changelog (10 May 2023):
 
