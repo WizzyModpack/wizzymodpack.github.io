@@ -3,6 +3,22 @@ layout: template
 ---
 # Changelog
 
+### Wizzy v1.2.3 Changelog (9 July 2023):
+
++Updated AE2 Stuff to a version that is compatible with Applied Energistics RV3.  
++Updated HBM's Nuclear Tech Mod.  
++Added CraftTweaker, and scripts to fix conflicting recipes within Wizzy.  
+~Disabled Coal Dust hazards in HBM Nuclear Tech Mod.  
+~Disabled Mob Armor in HBM Nuclear Tech Mod.  
+~Reduced the chance of Loot Bags being dropped by approx. 50%.  
+~Halved the chance of PneumaticCraft plants spawning per chunk.  
+~Reduced Copper Ore clusters/density/veins per chunk by 20%-50% in HBM's Nuclear Tech Mod, Thermal Expansion, Tinker's Construct, Immersive Engineering, Metallurgy, Mekanism & Mariculture.  
+  
+Known Issues:  
+-HBM's Nuclear Tech disables the normal crafting recipe for the Mekanism Digital Miner. This is being investigated.  
+-The game may crash when flying with the Mekanism Jetpack on a LAN world. This is being investigated.  
+-A Philosopher's Stone (ProjectE) recipe to smelt gravel into Cobblestone still exists and has not been able to be removed using CraftTweaker - this conflicts with the recipe to smelt Gravel into Concrete (Chisel).  
+
 ### Wizzy v1.2.2 Changelog (10 May 2023):
 
 ~ The Aether II is no longer included in any modes (Standard, Build Mode, Magic Mode, Overload Mode & Creators' Selection). This is due to issues with lighting updates that the mod causes. It will still be available in the mod selector.
