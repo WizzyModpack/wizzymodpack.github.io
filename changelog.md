@@ -3,6 +3,25 @@ layout: template
 ---
 # Changelog
 
+### Wizzy v1.2.4 Changelog (11 August 2023):   
+
+-Updated HBM's Nuclear Tech Mod  
+-Disabled Special Meteors (HBM Nuclear Tech)  
+-Halved the probability of a meteor spawning (HBM Nuclear Tech)  
+-Halved the probability of a meteor spawning during a meteor shower (HBM Nuclear Tech)  
+-Halved the duration of meteor showers (HBM Nuclear Tech)  
+-Disabled player radiation contamination, as radioactive Hard Drives from AE2 would instantly kill the player (HBM Nuclear Tech)  
+-Reduced the chance of a Blood Moon by 40% (Random Things Mod)  
+-Mobs spawned during a Blood Moon will now disappear at sunrise (Random Things Mod)  
+-Reduced the spawn rate for mob armour from 0.03 to 0.01 (Mekanism)  
+-Added a new recipe for the Mortar (The Kitchen Mod) as the old recipe conflicted with the Stone Bowl (Wireless Redstone CBE).  
+  
+Known Issues:  
+-HBM's Nuclear Tech disables the normal crafting recipe for the Mekanism Digital Miner.  
+-The host's game may crash when players are flying with the Mekanism Jetpack on a LAN world.  
+-A Philosopher's Stone (ProjectE) recipe to smelt gravel into Cobblestone still exists and has not been able to be removed using CraftTweaker - this conflicts with the recipe to smelt Gravel into Concrete (Chisel).  
+-In some instances, the player is unable to hit mobs immediately after respawning.  
+  
 ### Wizzy v1.2.3 Changelog (9 July 2023):
 
 +Updated AE2 Stuff to a version that is compatible with Applied Energistics RV3.  
